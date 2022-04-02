@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "94+UI2rql6/c3iwWRud7BNU3FKG/Mpvaxr3N52FsRnR87n8yTN5aCtQiqG2GQc8f03yrAxn4VvofPgRBFVwRWA==",
+  "success": true,
+  "projectFilePath": "C:\\Cosas\\Nomi\\Programas\\Id_nomi\\Id_nomi\\Id_nomi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\manga\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

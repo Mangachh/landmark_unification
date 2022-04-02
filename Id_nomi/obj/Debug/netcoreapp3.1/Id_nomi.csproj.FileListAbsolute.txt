@@ -1,0 +1,12 @@
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.exe
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.deps.json
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.runtimeconfig.json
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.runtimeconfig.dev.json
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.dll
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\bin\Debug\netcoreapp3.1\Id_nomi.pdb
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.AssemblyInfoInputs.cache
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.AssemblyInfo.cs
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.csproj.CoreCompileInputs.cache
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.dll
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.pdb
+C:\Cosas\Nomi\Programas\Id_nomi\Id_nomi\obj\Debug\netcoreapp3.1\Id_nomi.genruntimeconfig.cache
